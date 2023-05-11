@@ -20,7 +20,7 @@ If the barplot is looked at, there is an interesting comparison between the acid
 
 The metrics of my best model was the PCA for the Logsitical Regression model.  This model bright back the highest return for the 4.3 rated wine.  It was the highest rating for any of the wines included in this dataset.  It had a 75% positivity rate, showing that 75% of the time, a customer would pick a 4.3 rated bottle.
 
-MY model would solve the business problem well because it was run well.  I used the original Logistical Regression Model and tuned it.  Then I compared it to the Random Forest Models, which were better than the Logistical Regression models.  Once the PCA model was run, that was the best one, so it was chosen to solve this problem.
+My model would solve the business problem well because it was run well.  I used the original Logistical Regression Model and tuned it.  Then I compared it to the Random Forest Models, which were better than the Logistical Regression models.  Once the PCA model was run, that was the best one, so it was chosen to solve this problem.
 
 Looking through the data gathered, I would recommend that the company uses the PCA Logistical Regression Model for their 4.3 rating. This was the highest rating that had the highest positive outcome with all the models used. It returned 75% that a wine would be rated 4.3 from the customers. If we look at the other data, the price point for this wine was constistently lower than the other ratings, with the exception of the 4.2 rating. It was still at a point where a customer like me, who does not drink wine, would feel comfortable spending that money to taste the wine and see if it was the type they would enjoy. That correlation was shown in the "Price v. Ratings" scatterplot.
 
